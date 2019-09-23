@@ -1,2 +1,2 @@
 # Wikibot
-A Basic chatbot in python.
+Still in development phase...
