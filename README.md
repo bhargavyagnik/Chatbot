@@ -12,3 +12,5 @@ We are using
 pip install wikipedia
 ```
 wikipedia.summary can be used to get an abstract summary that we are currently using. In future I am planning to use of whole page.
+ 
+Currently I have approached the solution using TF-IDF and an effort is going on to use Glove to make this model more better and improve accuracy of the chatbot.
